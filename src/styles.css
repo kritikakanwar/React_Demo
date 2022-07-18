@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.heading {
+  color: purple;
+}
+.h3-heading {
+  border-bottom: 2px solid black;
+  width: auto;
+  font-size: 25px;
+}
+ul {
+  color: palevioletred;
+}
+.food-img {
+  width: 200px;
+  height: 200px;
+}
